@@ -1,0 +1,199 @@
+{
+  "contact": {
+    "phone": "+81 080 5189 1669",
+    "email": "lll666arc@gmail.com",
+    "website": "https://www.uec.ac.jp/",
+    "location": "Tokyo, Japan"
+  },
+  "skills": [
+    {
+      "title": "General",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Engineering",
+          "percent": 95
+        },
+        {
+          "name": "Biomechanics",
+          "percent": 95
+        },
+        {
+          "name": "Communication Technology",
+          "percent": 50
+        },
+        {
+          "name": "Machine Learning",
+          "percent": 90
+        },
+        {
+          "name": "Data Science",
+          "percent": 85
+        }
+      ]
+    },
+    {
+      "title": "Languages",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Python",
+          "percent": 95
+        },
+        {
+          "name": "MATLAB",
+          "percent": 95
+        },
+        {
+          "name": "Javascript",
+          "percent": 20
+        },
+        {
+          "name": "C",
+          "percent": 40
+        }
+      ]
+    },
+    {
+      "title": "Frameworks",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "TensorFlow"
+        },
+        {
+          "name": "Keras"
+        },
+        {
+          "name": "Scikit-learn"
+        },
+        {
+          "name": "React"
+        },
+        {
+          "name": "Gatsby"
+        }
+      ]
+    },
+    {
+      "title": "Software",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Visual 3D"
+        },
+        {
+          "name": "OptiTrack"
+        },
+        {
+          "name": "Vicon"
+        },
+        {
+          "name": "SOLID WORKS 3D CAD"
+        },
+        {
+          "name": "Google Colaboratory"
+        }
+      ]
+    },
+    {
+      "title": "Databases",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "AIST Gait Database"
+        }
+      ]
+    }
+  ],
+  "summary": "I major in mechanical engineering. I am particularly interested in biomechanics and information engineering. I conduct research with the goal of applying machine learning to biomechanics.",
+  "education": [
+    {
+      "institution": "The University of Electro-Communications, Japan",
+      "degree": "Master/Engineering",
+      "start": "2020",
+      "end": "2022"
+    },
+    {
+      "institution": "The University of Electro-Communications, Japan",
+      "degree": "Bachelor/Engineering",
+      "start": "2016",
+      "end": "2020"
+    }
+    ,
+    {
+      "institution": "Musashi High School, Japan",
+      "start": "2012",
+      "end": "2015"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Researcher",
+      "company": "Okada Laboratory, The University of Electro-Communications, Japan",
+      "description": "I study biomechanics. I conduct research to predict kinetics during gait by machine learning.",
+      "start": "July, 2018",
+      "end": "Now"
+    },
+    {
+      "role": "Technical study abroad",
+      "company": "The University of Ottawa, Canada",
+      "description": "I did biomechanics research. In particular, I conducted research on posture control during gait in patients with Parkinson's disease.",
+      "start": "September, 2019",
+      "end": "March, 2020"
+    },
+    {
+      "role": "Exchange",
+      "company": "King Mongkut's Institute of Technology, Thailand",
+      "description": "Technical study abroad. Built agricultural robots.",
+      "start": "August, 2018",
+      "end": "September, 2018"
+    }
+  ],
+  "social": [
+    {
+      "service": "youtube",
+      "url": "https://www.youtube.com"
+    },
+    {
+      "service": "linkedin",
+      "url": " "
+    },
+    {
+      "service": "twitter",
+      "url": "https://twitter.com/LArc666x_x"
+    },
+    {
+      "service": "angellist",
+      "url": " "
+    },
+    {
+      "service": "github",
+      "url": "https://github.com/Yoichi66"
+    },
+    {
+      "service": "facebook",
+      "url": "https://www.facebook.com/yoichi6"
+    },
+    {
+      "service": "instagram",
+      "url": " "
+    }
+  ],
+  "role": "Engineer",
+  "projects": [
+    {
+      "name": "GRF Project",
+      "company": "The University of Electro Communications and The University of Montreal",
+      "description": "Project of prediction Ground Reaction Force(GRF) during gait via machine learning (on going)",
+      "link": "https://github.com/Yoichi66"
+    },
+    {
+      "name": "HS/TO Project",
+      "company": "The University of Electro Communications",
+      "description": "Project of prediction Heel Strike and Toe off(HS/TO) during gait via Logistic regression (on going)",
+      "link": "https://github.com/Yoichi66"
+    }
+  ],
+  "fullname": "Yoichi Onishi"
+}
