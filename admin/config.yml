@@ -60,6 +60,26 @@ collections:
               - { label: Company, name: company, widget: string }
               - { label: Description, name: description, widget: text }
               - { label: Link, name: link, widget: string }
+          - label: Licenses
+            name: licenses
+            widget: list
+            required: false
+            fields:
+              - { label: Role, name: role, widget: string }
+              - { label: Company, name: company, widget: string }
+              - { label: Description, name: description, widget: text }
+              - { label: "Start date", name: start, widget: date, format: 'MM/YYYY' }
+              - { label: "End date", name: end, widget: date, required: false, format: 'MM/YYYY' }   
+          - label: Publications
+            name: publications
+            widget: list
+            required: false
+            fields:
+              - { label: Role, name: role, widget: string }
+              - { label: Company, name: company, widget: string }
+              - { label: Description, name: description, widget: text }
+              - { label: "Start date", name: start, widget: date, format: 'MM/YYYY' }
+              - { label: "End date", name: end, widget: date, required: false, format: 'MM/YYYY' } 
           - label: Skills
             name: skills
             widget: list
