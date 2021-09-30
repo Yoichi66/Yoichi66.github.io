@@ -23,7 +23,7 @@ const Footer = ({ social }) => (
       >
         Yoichi Onishi
       </a>
-    </div>
+      </div>
     {social && (
       <div className="flex items-center justify-center ml-2">
         {social.map(item => (

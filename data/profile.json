@@ -1,7 +1,7 @@
 {
   "contact": {
-    "phone": "+81 080 5189 1669",
-    "email": "lll666arc@gmail.com",
+    "phone": "+81 666 6666 6666",
+    "email": "yohnishi@hb.mce.uec.ac.jp",
     "website": "https://www.uec.ac.jp/",
     "location": "Tokyo, Japan"
   },
@@ -50,7 +50,11 @@
         },
         {
           "name": "C",
-          "percent": 40
+          "percent": 35
+        },
+        {
+          "name": "Arduino",
+          "percent": 30
         }
       ]
     },
@@ -66,6 +70,12 @@
         },
         {
           "name": "Scikit-learn"
+        },
+        {
+          "name": "Open CV"
+        },
+        {
+          "name": "Open Pose"
         },
         {
           "name": "React"
@@ -133,7 +143,7 @@
       "company": "Okada Laboratory, The University of Electro-Communications, Japan",
       "description": "I study biomechanics. I conduct research to predict kinetics during gait by machine learning.",
       "start": "July, 2018",
-      "end": "Now"
+      "end": "Present"
     },
     {
       "role": "Technical study abroad",
@@ -150,6 +160,44 @@
       "end": "September, 2018"
     }
   ],
+  "awards": [
+    {
+      "role": "The Sasakawa Scientific Research Grant",
+      "company": "The University of Electro-Communications, Japan",
+      "description": "GRF Project",
+      "start": "April, 2021",
+      "end": "March, 2022"
+    },
+    {
+      "role": "Hatakeyama Prize, The Japan Society of Mechanical Engineers",
+      "company": "The University of Electro-Communications, Japan",
+      "description": "Graduate first on the list",
+      "start": "March, 2020",
+      "end": " "
+    }
+  ],
+  "licenses": [
+    {
+      "role": "JDLA Deep Learning for GENERAL 2020",
+      "company": " ",
+      "description": "License for deep learning",
+      "start": "August, 2020"
+    }
+  ],
+  "publications": [
+    {
+      "role": "Onishi, Y., and Okada, H., Determination of heel strike and toe-off timing during gait using kinematic data by a logistic regression model",
+      "company": "The 2020 Yokohama Sport Conference",
+      "description": "Poster presentation",
+      "start": "August, 2020"
+    },
+    {
+      "role": "Onishi, Y., and Okada, H., Determination of heel strike and toe-off timing during gait using kinematic data by a logistic regression model",
+      "company": "The 41st Society of Biomechanics Japan",
+      "description": "Presentation",
+      "start": "December, 2020"
+    }
+  ],
   "social": [
     {
       "service": "youtube",
@@ -161,7 +209,7 @@
     },
     {
       "service": "twitter",
-      "url": "https://twitter.com/LArc666x_x"
+      "url": "https://twitter.com/"
     },
     {
       "service": "angellist",
@@ -173,7 +221,7 @@
     },
     {
       "service": "facebook",
-      "url": "https://www.facebook.com/yoichi6"
+      "url": "https://www.facebook.com/"
     },
     {
       "service": "instagram",

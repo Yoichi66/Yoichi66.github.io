@@ -6,12 +6,9 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Baran Cezayirli | Technologist`,
-    author: `Baran Cezayirli`,
-    description: `With 10+ years of experience in various industries, I help tech
-              startups from idea phase to high volumes. I design and build
-              scalable solutions, implement internal processes that fit your
-              organization, build teams that produce results.`,
+    title: `Yoichi Onishi | Engineer`,
+    author: `Yoichi Onishi`,
+    description: `I major in mechanical engineering. I am particularly interested in biomechanics and information engineering. I conduct research with the goal of applying machine learning to biomechanics.`,
     siteUrl: `https://barancezayirli.com/`,
     social: {
       twitter: `barancezayirli`,
@@ -21,7 +18,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Baran Cezayirli | Technologist`,
+        name: `Yoichi Onishi | Engineer`,
         short_name: `CV`,
         start_url: `/`,
         background_color: `#f7f0eb`,

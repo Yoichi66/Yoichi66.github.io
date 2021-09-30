@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Experience = ({ data }) => (
+const Awards = ({ data }) => (
   <section>
-    <h1 className="section-header">Experience</h1>
+    <h1 className="section-header">Awards</h1>
     {data &&
       data.map((item, i) => (
         <article className="my-5" key={`${item.company}-${i}`}>
@@ -16,4 +16,4 @@ const Experience = ({ data }) => (
   </section>
 );
 
-export default Experience;
+export default Awards;

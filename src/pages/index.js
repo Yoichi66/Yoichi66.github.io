@@ -10,6 +10,9 @@ import {
   Footer,
   SEO
 } from '../components';
+import Awards from '../components/awards';
+import Licenses from '../components/licenses';
+import Publications from '../components/publications';
 import resume from '../../data/profile';
 import '../main.css';
 
@@ -26,7 +29,10 @@ const Home = () => (
       <div className="border-b border-neutral-300 pb-2 my-5 lg:flex">
         <div className="lg:w-2/3 lg:pr-8">
           {resume.experience && <Experience data={resume.experience} />}
+          {resume.awards && <Awards data={resume.awards} />}
           {resume.projects && <Projects data={resume.projects} />}
+          {resume.publications && <Publications data={resume.publications} />}
+          {resume.licenses && <Licenses data={resume.licenses} />}
         </div>
         <div className="lg:w-1/3 lg:pl-8 lg:border-l lg:border-neutral-300 ">
           {resume.skills && <Skills data={resume.skills} />}
@@ -37,7 +43,9 @@ const Home = () => (
             ))}
         </div>
       </div>
-      <Footer social={resume.social} />
+      <Footer 
+        social={resume.social}
+      />
     </div>
   </main>
 );
